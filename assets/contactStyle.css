@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+    background-image: url(./photos/ravinala.jpg);
+}
+.container {
+    background-color: white;
+    width: 900px;
+    height: 900px;
+    border-radius: 50%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.container1 {
+    font-size: 20px;
+    text-align: center;
+    background-color: grey;
+    margin: auto;
+    padding: 30px;
+    border-radius: 30px;
+}
+.container2 {
+    display: flex;
+    margin: 40px;
+}
+.facebook {
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(84, 84, 206);
+    width: 300px;
+    margin: auto;
+    border-radius: 30px;
+    color: white;
+}
+.email {
+    font-size: 40px;
+    text-align: center;
+    background-color: rgb(67, 109, 102);
+    width: 300px;
+    margin: auto;
+    border-radius: 30px;
+}
+.container3 {
+    font-size: 30px;
+    text-align: center;
+    background-color: rgb(7, 172, 42);
+    margin: auto;
+    border-radius: 30px;
+    align-self: end;
+}
+a {
+    text-decoration: none;
+    color: white;
+} 

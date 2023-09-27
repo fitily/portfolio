@@ -1,0 +1,95 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto 75%;
+    column-gap: 40px;
+}
+.grid-item1 {
+    align-self: center;
+    justify-self: center;
+}
+.grid-item2 {
+    align-self: center;
+    justify-self: center;
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+    background-color: burlywood;
+    animation-name: example;
+    animation-duration: 4s;
+    padding: 30px;
+    border-radius: 60px;
+}
+@keyframes example {
+    from {background-color: burlywood;}
+    to {background-color: aquamarine;}
+}
+.grid-item3 {
+    margin: 50px 0 0 50px;
+    align-self: center;
+    justify-self: center;
+}
+.grid-item4 {
+    align-self: start;
+    justify-self: center;
+}
+#myProfil {
+    width: 300px;
+    border-radius: 30%;
+    box-shadow: 15px 9px 10px rgb(71, 19, 105);
+    margin-top: 30px;
+}
+.icone {
+    width: 20px;    
+    padding-top: 15px;
+    margin-right: 15px;
+}
+.quantitativeSkills {
+    width: 300px;
+    height: 10px;
+    border: solid;
+    margin-top: 10px;
+}
+#EnglishSkill {
+    width: 260px;
+    height: 10px;
+    background-color: black;
+}
+#FrenchSkill {
+    width: 200px;
+    height: 10px;
+    background-color: black;
+}
+#htmlSkill {
+    width: 200px;
+    height: 10px;
+    background-color: black;
+}
+#cssSkill {
+    width: 100px;
+    height: 10px;
+    background-color: black;
+}
+#JSSkill {
+    width: 70px;
+    height: 10px;
+    background-color: black;
+}
+#JavaSkill {
+    width: 50px;
+    height: 10px;
+    background-color: black;
+}
+.logo {
+    width: 50px;
+    margin-right: 20px;
+    margin-top: 10px;
+    padding-top: 5px;
+}
+.titre {
+    background-color: rgba(87, 87, 87, 0.747);
+    color: white;
+    text-align: center;
+    padding-bottom: 2px;
+    border-radius: 20px;
+    margin-top: 70px;
+}
