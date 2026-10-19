@@ -1,3 +1,5 @@
+@import "tailwindcss/utilities";
+
 :root {
     color-scheme: light;
     --paper: #ffffff;
@@ -46,6 +48,10 @@ a:focus-visible, input:focus-visible { outline: 2px solid var(--coral); outline-
 .main-nav a:hover, .site-footer a:hover { color: var(--green); }
 .main-nav .nav-contact { color: var(--green); }
 .nav-contact span { margin-left: 5px; }
+.language-switcher { display: inline-flex; align-items: center; gap: 7px; margin-left: 2px; color: var(--muted); font-size: 13px; }
+.language-switcher button { padding: 5px 2px; border: 0; background: transparent; color: inherit; cursor: pointer; font-size: inherit; font-weight: 700; }
+.language-switcher button[aria-pressed="true"] { color: var(--green); }
+.language-switcher button:focus-visible { outline: 2px solid var(--coral); outline-offset: 2px; }
 
 .hero {
     min-height: 650px;
@@ -185,7 +191,7 @@ a:focus-visible, input:focus-visible { outline: 2px solid var(--coral); outline-
 @media (max-width: 440px) {
     .main-nav { gap: 10px; font-size: 13px; }
     .hero-actions { gap: 17px; }
-    .hero h1 { font-size: 50px; }
+    .hero h1 { font-size: 40px; }
     .hero-description { font-size: 18px; }
     .button { gap: 9px; padding-inline: 13px; font-size: 13px; }
     .hero-meta { font-size: 12px; }
