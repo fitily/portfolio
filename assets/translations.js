@@ -132,7 +132,7 @@ export const translations = {
                 },
                 {
                     date: "SINCE MAY 2024",
-                    title: "Founder and Project Lead",
+                    title: "Founder and Project Manager",
                     organization: "FromScratch",
                     detail: "A social initiative developed from concept to delivery, providing digital literacy training for teenagers in rural communities.",
                     tag: "SOCIAL ENTERPRISE",

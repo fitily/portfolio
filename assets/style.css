@@ -146,7 +146,7 @@ a:focus-visible, input:focus-visible { outline: 2px solid var(--coral); outline-
 .footer-links a { color: var(--muted); font-size: 15px; font-weight: 600; transition: color .2s ease; }
 .footer-links a:hover { color: var(--green); }
 .footer-links a span { color: var(--coral); }
-.site-footer .copyright { grid-column: 1 / -1; padding-top: 12px; border-top: 1px solid var(--line); font-size: 13px; }
+.site-footer .copyright { grid-column: 1 / -1; padding-top: 12px; border-top: 1px solid var(--line); font-size: 13px; text-align: center; }
 
 @media (max-width: 1100px) {
     .hero h1 { font-size: 76px; }
