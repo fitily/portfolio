@@ -55,7 +55,7 @@ export const translations = {
                     title: "Chef d’unité scout",
                     organization: "Tily Eto Madagasikara",
                     organizationSuffix: "TEM · World Scouting",
-                    detail: "Accompagnement de plus de 80 garçons âgés de 12 à 16 ans. Représentation de la FSM au rassemblement international de scouts à Sharjah, aux Émirats arabes unis, en février 2020. Volontaire de World Scouting et membre de l’équipe de modération du chat du JOTA-JOTI du 16 au 18 octobre 2026.",
+                    detail: "Accompagnement de plus de 80 garçons âgés de 12 à 16 ans sur une période de 8 ans. Représentation de la Firaisan'ny Skotisma Malagasy - Sokajy Zazalahy (FSM-SZL) lors d’un rassemblement scout international à Sharjah, aux Émirats arabes unis, en février 2020. Volontaire de World Scouting pour la période 2024-2027.",
                     tag: "BÉNÉVOLAT",
                     href: "https://www.linkedin.com/posts/who-is-finiavana-meet-miandry-finiavana-ugcPost-7229198545793224705-SiFt/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACYQnOABpXQjwrdTi9rMY6NTTURFuiu-OCk",
                     ariaLabel: "En savoir plus sur mon engagement scout sur LinkedIn"
@@ -144,7 +144,7 @@ export const translations = {
                     title: "Scout Unit Leader",
                     organization: "Tily Eto Madagasikara",
                     organizationSuffix: "TEM · World Scouting",
-                    detail: "Supported more than 80 boys aged 12 to 16. Represented the Malagasy Scout Federation (FSM) at the international scout gathering in Sharjah, UAE, in February 2020. World Scouting volunteer and chat moderator for JOTA-JOTI, October 16–18, 2026.",
+                    detail: "Mentored over 80 boys aged 12–16 over an eight-year period. Represented the Firaisan'ny Skotisma Malagasy - Sokajy Zazalahy (FSM-SZL) at an international Scout gathering in Sharjah, United Arab Emirates, in February 2020. World Scouting Volunteer (2024–2027).",
                     tag: "VOLUNTEERING",
                     href: "https://www.linkedin.com/posts/who-is-finiavana-meet-miandry-finiavana-ugcPost-7229198545793224705-SiFt/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAACYQnOABpXQjwrdTi9rMY6NTTURFuiu-OCk",
                     ariaLabel: "Learn more about my scouting work on LinkedIn"
