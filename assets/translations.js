@@ -83,8 +83,8 @@ export const translations = {
             phone: "+261 38 13 897 90"
         },
         footer: {
-            specialty: "Fondateur de FromScratch",
-            alumni: "Ancien participant du programme YALI",
+            specialty: "FromScratch founder",
+            alumni: "YALI program alumnus",
             linksLabel: "Liens professionnels"
         }
     },
